@@ -36,5 +36,3 @@ This feature helps students organize and track their data science projects.
 
 | Student Dashboard | SQL, Power BI | Completed |
 
-
-
